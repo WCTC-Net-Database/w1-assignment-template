@@ -21,9 +21,11 @@ We’re kicking off our coding with a cool project where you'll get to build and
 ## Notes:
 For a basic C# console application that reads from and writes to a CSV file, the program hierarchy will be quite straightforward.
 
+```
 YourProjectName/
 ├── Program.cs          # Main C# file containing all the logic for the application
 └── input.csv           # Text file containing initial data for the application to process
+```
 
 ## Grading Rubric:
 - **0%** if the program doesn’t run at all.
